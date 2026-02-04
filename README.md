@@ -37,11 +37,11 @@ The pipeline's output is designed for high-stakes decision-making, as visualized
 
 ### Market Pulse & Global Inventory
 A high-level overview of the 30,000+ listings currently being monitored across the target markets, showing dual-currency normalization (MXN/USD) and geospatial distribution.
-![Market Overview](./media/Market%20Overview.jpg)
+![Market Overview](./media/Market%20Overview.png)
 
 ### Absorption Heatmap (Supply vs. Velocity)
 Calculates market health by Price Tier (Entry, Mid, Luxury). Red zones indicate high inventory/low velocity (Buyer's Market), while green zones indicate high velocity/low inventory (Seller's Market).
-![Absorption Heatmap](./media/Absorption%20Heatmap.jpg)
+![Absorption Heatmap](./media/Absorption%20Heatmap.png)
 
 ### Flux Monitor (The Market Heartbeat)
 Real-time tracking of New vs. Off-Market listings. The blue "Net Flow" line identifies periods of rapid inventory growth or administrative market "purges."
