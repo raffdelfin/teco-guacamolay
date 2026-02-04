@@ -1,0 +1,15 @@
+pandas
+psycopg2-binary
+playwright
+playwright-stealth
+google-api-python-client
+google-auth
+python-dotenv
+psycopg[binary]
+google-auth-oauthlib
+google-genai
+pydantic
+pytest
+seaborn
+matplotlib
+Jinja2
